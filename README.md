@@ -74,6 +74,9 @@ AI-powered desktop chatbot for placement preparation and coding assistance.
 - Web Version Deployment
 
 ---
+## Screenshot
+
+![App Screenshot](screenshot.png)
 
 # Author
 
