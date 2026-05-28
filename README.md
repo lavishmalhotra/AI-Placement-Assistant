@@ -78,6 +78,7 @@ AI-powered desktop chatbot for placement preparation and coding assistance.
 
 ![App Screenshot](./Screenshots/app_screenshot.png)
 
+
 # Author
 
 Lavish Malhotra
