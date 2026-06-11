@@ -8,7 +8,7 @@ This chatbot helps students with:
 - DSA roadmap
 - Resume tips
 - AI and technology queries
-- Interview preparation
+- Interview preparation 
 
 ---
 
